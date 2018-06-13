@@ -1,0 +1,28 @@
+---
+layout: home
+title: PA Digital
+---
+
+<p>PA Digital is a network of libraries, historical societies, museums and related cultural heritage institutions in the Commonwealth of Pennsylvania.</p>
+
+<p>Site: <a href="https://padigital.org/">https://padigital.org/</a></p>
+
+
+<div class="box">
+	<div class="box-link">
+		<img src="/images/best-prac.jpg" />
+		<h3><strong>PA Digital Metadata Guidelines</strong></h3>
+		<p>The PA Digital Metadata Guidelines outline requirements, recommendations, and best practices for institutions contributing to Pennsylvania's DPLA service hub.</p>
+		<p class="mapping-metadata">
+		Version: <span class="label-success">1.0</span> Released: <span class="label-success">2017</span> Lang.: <span class="label-success">EN</span> Kind: <span class="label-success">PDF</span>
+		</p>
+	</div>
+	<div class="box-link">
+		<img src="/images/map-cross.jpg" />
+		<h3><strong>PA Digital Aggregator to DPLA Crosswalks</strong></h3>
+		<p>PA Digital aggregator accepts and stores QDC but currently only outbounds DC. This sheet, used internally, describes the Inbound -> Outbound -> DPLA crosswalk, including stacking of elements, to ensure our mapping remains consistent.</p>
+		<p class="mapping-metadata">
+		Version: <span class="label label-success">1.0</span> Released: <span class="label-success">2017</span> Lang.: <span class="label-success">EN</span> Kind: <span class="label-success">PDF</span>
+		</p>
+	</div>
+</div>
