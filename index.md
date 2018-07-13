@@ -6,7 +6,7 @@ layout: home
 ---
 
 
-<div class="box">
+<section class="box">
 	{% for map in site.maps %}
     <div class="box-link">
         <a href="{{ map.url }}"><img src="{{ map.logo }}"></a>
@@ -14,4 +14,4 @@ layout: home
         <p class="btn"><a href="{{ map.url }}">{{ map.title }}</a></p>
     </div>
 	{% endfor %}
-</div>
+</section>
